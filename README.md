@@ -1,6 +1,4 @@
 - 👋 Yo! I’m @NishTheFish92
-- 🌱 I’m currently learning ML
-<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me - <a href = https://www.linkedin.com/in/nishant-ajit-08551b28b/>Linkedin<a/>
 - <a href = 'https://leetcode.com/u/nishthefish92/'>Leetcode<a/>
 <!---
